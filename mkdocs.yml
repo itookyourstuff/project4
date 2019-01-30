@@ -2,5 +2,7 @@ site_name: LocateIT Documentatie
 nav:
     - Home: index.md
     - Afdeling: afdeling.md
-    - Bladzuiger: bladzuiger.md
+    - Feedbacks: feedbacks.md
+    - Products: products.md
+    - Stocks: stocks.md
 theme: readthedocs
