@@ -5,6 +5,7 @@ Alle methodes van de afdeling api
 
 ## Get all afdeling
 Met deze methode doe je een get request , hier krijg je een object terug met een naam en id.
+``
 naam: String
 id: Int
 ## Afdeling toevoegen methode
