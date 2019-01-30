@@ -1,0 +1,5 @@
+site_name: LocateIT Documentatie
+nav:
+    - Home: index.md
+    - Afdeling: afdeling.md
+theme: readthedocs
