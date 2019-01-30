@@ -5,11 +5,12 @@ Alle methodes van de afdeling api
 
 ## Get all afdeling
 Met deze methode doe je een get request , hier krijg je een object terug met een naam en id.  
-`naam: String
-id: Int`
+`naam: String`  
+`id: Number`
 
 ## Afdeling toevoegen methode
-Met deze methode doe je post request, hiermee creër je een object die een naam en id nodig heeft.
+Met deze methode doe je post request, hiermee creër je een object die een naam nodig heeft en zal zelf een id toewijzen.  
+`naam: String`
 
 
 ## Afdelingen Delete methode
