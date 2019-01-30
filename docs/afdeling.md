@@ -1,6 +1,7 @@
 # Afdeling methode
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Alle methodes van de afdeling api
+## Afdeling model
 
 ## Afdeling get methode
 
