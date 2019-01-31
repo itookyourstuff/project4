@@ -19,7 +19,7 @@ Deze methode doet een get request, deze zal alle waardes ophalen van een object 
 
 ##Add products
 Deze methode doet een post request, dit creër een object waarbij volgende waardes in zitten.  
-`id: ` Deze word zelf gegenereerd
+`id: ` Deze word zelf gegenereerd  
 `naam: Naam van het product`  
 `beschrijving: Beschrijving van het product`  
 `afdeling: Een afdeling(genre) voor het product`  
