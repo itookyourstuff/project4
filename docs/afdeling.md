@@ -1,7 +1,7 @@
 # Afdeling methode
 
 Alle methodes van de afdeling api
-https://locateit-backend.herokuapp.com/afdelingen
+[https://locateit-backend.herokuapp.com/afdelingen]
 ## header token
 Om een request te kunnen doen moet je een header token meegeven waarbij er een passwoord zit.
 ## Get all afdeling
