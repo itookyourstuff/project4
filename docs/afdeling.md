@@ -10,7 +10,7 @@ Met deze methode doe je een get request , hier krijg je een object terug volgend
 
 
 ## Afdeling toevoegen methode
-Met deze methode doe je post request, hiermee creër je een object die het volgende zal nodig heeft:
+Met deze methode doe je post request, hiermee creër je een object die het volgende zal nodig hebben:
 `naam: String`  
 Deze methode zal zelf het volgende aanmaken:  
 `id: Number`
