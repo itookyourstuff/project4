@@ -1,5 +1,6 @@
 #Product methode
-https://locateit-backend.herokuapp.com/products
+[https://locateit-backend.herokuapp.com/products](https://locateit-backend.herokuapp.com/products)
+
 #header - token
 
 ##Get all products

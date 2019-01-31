@@ -1,5 +1,5 @@
 #Stock methode
-https://locateit-backend.herokuapp.com/stocks
+[https://locateit-backend.herokuapp.com/stocks](https://locateit-backend.herokuapp.com/stocks)
 ##header - token
 
 ##get latest Stock

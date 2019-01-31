@@ -1,5 +1,5 @@
 #Feedback methode
-https://locateit-backend.herokuapp.com/feedback
+[https://locateit-backend.herokuapp.com/feedback](https://locateit-backend.herokuapp.com/feedback)
 ##header - token
 Token meegeven
 
