@@ -31,4 +31,4 @@ Bij deze methode ga je een delete request sturen, waarbij er een feedback object
 Bij deze methode ga je een delete request sturen, waarbij alle objecten in feedback verwijderd worden.
 
 ##Update feedback
-Deze methode gaat ene patch request sturen, hiermee kan je de beschrijving of score kan aanpassen voor de feedback.
+Deze methode gaat een patch request sturen, hiermee kan je de beschrijving of score kan aanpassen voor de feedback.
