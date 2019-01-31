@@ -1,10 +1,11 @@
 # Afdeling methode
 
 Alle methodes van de afdeling api
-## Afdeling model
-
+https://locateit-backend.herokuapp.com/afdelingen
+## header token
+Om een request te kunnen doen moet je een header token meegeven waarbij er een passwoord zit.
 ## Get all afdeling
-Met deze methode doe je een get request , hier krijg je een object terug volgende in:    
+Met deze methode doe je een get request , hier krijg je een object terug met het volgende in:    
 `naam: String`  
 `id: Number`
 
@@ -15,10 +16,7 @@ Met deze methode doe je post request, hiermee creër je een object waarbij volge
 `naam: Naam van de afdeling`    
 
 ## Afdelingen Delete methode
-Met deze methode ga je het alle object van de afdeling verwijderen. Hier heb je het volgende nodig:  
-`naam: String`  
-`id: Number`  
+Met deze methode ga je het alle object van de afdeling verwijderen.
 
 ## Afdeling Delete by id methode
-Met deze methode ga je een delete request doen oid: Numberm een bepaalde afdeling te verwijderen. Om deze methode uittevoeren heeft deze methode de volgende parameter nodig:  
-`id: Number`  
+Met deze methode ga je een delete request doen om een bepaalde afdeling te verwijderen op basis van een `id`.  
