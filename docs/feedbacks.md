@@ -1,7 +1,7 @@
 #Feedback methode
 [https://locateit-backend.herokuapp.com/feedback](https://locateit-backend.herokuapp.com/feedback)
-##header - token
-Token meegeven
+##header
+Om een request te kunnen doen moet je een header token meegeven waarbij er een passwoord zit.
 
 ##Feedback get all
 Met deze methode doe je een get request, hiermee krijg je volgende waarden terug:

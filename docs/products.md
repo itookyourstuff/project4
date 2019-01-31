@@ -1,8 +1,8 @@
 #Product methode
 [https://locateit-backend.herokuapp.com/products](https://locateit-backend.herokuapp.com/products)
 
-#header - token
-
+#header
+Om een request te kunnen doen moet je een header token meegeven waarbij er een passwoord zit.
 ##Get all products
 Deze methode doet een get request, deze zal alle product objecten ophalen. Dit object bevat volgende waardes:  
 `id: Number`  
