@@ -17,7 +17,7 @@ Met deze methode doe je post request, hiermee creër je een object waarbij volge
 `naam: Naam van de afdeling`    
 
 ## Afdelingen Delete methode
-Met deze methode ga je het alle object van de afdeling verwijderen.
+Met deze methode ga je alle afdeling verwijderen.
 
 ## Afdeling Delete by id methode
 Met deze methode ga je een delete request doen om een bepaalde afdeling te verwijderen op basis van een `id`.  
