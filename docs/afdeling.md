@@ -12,7 +12,7 @@ Met deze methode doe je een get request , hier krijg je een object terug met het
 
 
 ## Afdeling toevoegen methode
-Met deze methode doe je post request, hiermee creër je een object waarbij volgende waardes in zitten:  
+Met deze methode doe je een post request, hiermee creër je een object waarbij volgende waardes in zitten:  
 `id: Deze word zelf gegenereerd`  
 `naam: Naam van de afdeling`    
 
