@@ -23,7 +23,7 @@ Met deze methode doe je post request, hiermee creër je een object waarbij volge
 `timestamp: word zelf toegevoegd(tijd van het aanmaken van een review)`  
 
 ##Delete feedback by id
-Bij deze methode ga je een delete request sturen, waarbij er een feedback object zal verwijerd worden op basis van het `id`:
+Bij deze methode ga je een delete request sturen, waarbij er een feedback object zal verwijderd worden op basis van het `id`.
 
 
 ##Delete all Feedback

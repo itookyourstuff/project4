@@ -4,6 +4,12 @@
 
 
 ##get all gebruikers
+Met deze methode doe je een get request , hier krijg je een object terug met het volgende in:    
+`naam: String`  
+`id: Number`
+`email: String`
+`niveau: Number`
+`passwoord: String`
 
 ##add gebruikers
 Met deze methode doe je post request, hiermee creër je een object waarbij volgende waardes in zitten:  
