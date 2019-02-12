@@ -9,5 +9,5 @@ Deze methode doet een post request, waarbij volgende waardes zijn:
 `totalDown: Number`  
 `timestamp: Number`
 
-##Laatste nieuwe People counter ophalen.
+##Laatste nieuwe PeopleCounter ophalen.
 Deze methode doet een get request, waarbij het nieuwste object opgehaald word op basis van `timestamp`.
