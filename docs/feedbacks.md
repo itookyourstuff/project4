@@ -1,5 +1,6 @@
 #Feedback methode
 [https://locateit-backend.herokuapp.com/feedback](https://locateit-backend.herokuapp.com/feedback)
+  
 ##header
 Om een request te kunnen doen moet je een header token meegeven waarbij er een passwoord zit.
 

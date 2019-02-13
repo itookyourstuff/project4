@@ -2,7 +2,9 @@
 
 [https://locateit-backend.herokuapp.com/gebruikers](https://locateit-backend.herokuapp.com/gebruikers)
 
-
+##header
+Om een request te kunnen doen moet je een header token meegeven waarbij er een passwoord zit.
+  
 ##get all gebruikers
 Met deze methode doe je een get request , hier krijg je een object terug met het volgende in:    
 `naam: String`  
